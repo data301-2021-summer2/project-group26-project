@@ -6,17 +6,22 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-I am interested in the Medical Cost Personal Dataset. This dataset explains the cost of a small sample of USA population Medical Insurance Cost based on some attributes such as age, sex, bmi, etc. This dataset is used in practice in [Machine Learning with R by Brett Lantz](https://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143), but the data is obtained from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance/home). It is simulated on the basis of demographic statistics from the US Census Bureau, according to the book from which it is from. The data was collected around 2017/2018, no specific date was provided. The purpose of the dataset is to show the relationship between attributes and the population medical cost insurance. From these relationships, we can deduct certain trends. The data was collected by the US Census Bureau, but no method of collection was listed. 
+I am interested to explore the cost of medical insurance in the USA as a function of single or combined variables. This dataset explains the cost of a small sample of USA population Medical Insurance Cost based on some attributes such as age, sex, bmi, etc. This dataset is used in practice in [Machine Learning with R by Brett Lantz](https://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143), but the data is obtained from [Kaggle](https://www.kaggle.com/mirichoi0218/insurance/home). It is simulated on the basis of demographic statistics from the US Census Bureau, according to the book.  The data was created on 2018-02-21, no specific date was provided on when it was collected. The purpose of the dataset is to show the relationship between attributes and the population medical cost insurance. From these relationships, we can deduct certain trends. The data was collected by the US Census Bureau, but no method of collection was outlined. 
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
 
+are any relevant corralection between the ratio of multiple quantitative variables; such as age/bmi vs charges/children?
+which are the top 10 states with the highest charges(based on this sample data)?
+Can we plot the regions with oldest population and higest charges?
+How does the medical insurance cost vary as a function of a single variable such as age, region,  and sex, or a combination of attributes (e.g. age, sex, and smoking)?
 ## Team Members
 
 - My name is Bilel Matmti and my student ID is 54987334, I am in the GMT +3 Timezone. 
+I am working alone on this project. 
 
 ## References
 
 [Machine Learning with R by Brett Lantz](https://www.amazon.com/Machine-Learning-R-Brett-Lantz/dp/1782162143)
 [Kaggle](https://www.kaggle.com/mirichoi0218/insurance/home)
+
