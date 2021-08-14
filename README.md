@@ -1,8 +1,8 @@
 # Group 26 - Medical Cost Personal Dataset
 
-## Milestones
+## Link to Project Presentation
 
-Details for Milestone are available on Canvas (left sidebar, Course Project) or [here](https://firas.moosvi.com/courses/data301/project/milestone01.html).
+[Project Presentation Video](https://vimeo.com/587267957)
 
 ## Describe your topic/interest in about 150-200 words
 
